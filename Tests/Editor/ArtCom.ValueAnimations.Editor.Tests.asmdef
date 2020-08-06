@@ -1,0 +1,14 @@
+{
+    "name": "ArtCom.ValueAnimations.Editor.Tests",
+    "references": [
+        "ArtCom.ValueAnimations.Editor",
+        "ArtCom.ValueAnimations"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

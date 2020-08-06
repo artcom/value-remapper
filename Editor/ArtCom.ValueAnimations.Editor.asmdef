@@ -1,0 +1,10 @@
+{
+    "name": "ArtCom.ValueAnimations.Editor",
+    "references": [
+      "ArtCom.ValueAnimations"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

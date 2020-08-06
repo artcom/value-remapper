@@ -1,0 +1,11 @@
+{
+    "name": "ArtCom.ValueAnimations.Tests",
+    "references": [
+        "ArtCom.ValueAnimations"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
